@@ -4,7 +4,7 @@
 int main() {
     try {
         // Load YAML file
-        YAML::Node config = YAML::LoadFile("config.yaml");
+        YAML::Node config = YAML::LoadFile("../config.yaml");
 
         // Read configuration settings
         std::string name = config["name"].as<std::string>();
