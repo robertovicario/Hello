@@ -1,0 +1,59 @@
+John:
+  name: John Smith
+  age: 30
+  city: New York
+  occupation: Engineer
+
+Alice:
+  name: Alice Johnson
+  age: 25
+  city: Los Angeles
+  occupation: Doctor
+
+Michael:
+  name: Michael Brown
+  age: 35
+  city: Chicago
+  occupation: Teacher
+
+Emily:
+  name: Emily Wilson
+  age: 28
+  city: Houston
+  occupation: Lawyer
+
+David:
+  name: David Miller
+  age: 40
+  city: San Francisco
+  occupation: Programmer
+
+Sophia:
+  name: Sophia Martinez
+  age: 33
+  city: Miami
+  occupation: Artist
+
+Daniel:
+  name: Daniel Taylor
+  age: 27
+  city: Seattle
+  occupation: Architect
+
+Olivia:
+  name: Olivia Anderson
+  age: 32
+  city: Boston
+  occupation: Scientist
+
+Matthew:
+  name: Matthew Garcia
+  age: 29
+  city: Dallas
+  occupation: Chef
+
+Emma:
+  name: Emma Hernandez
+  age: 31
+  city: Atlanta
+  occupation: Writer
