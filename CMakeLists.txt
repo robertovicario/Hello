@@ -1,15 +1,15 @@
 cmake_minimum_required(VERSION 3.10)
-project(YAML_CPP_Example)
+project(example)
 
-# Find yaml-cpp package
+# pkg
 find_package(yaml-cpp REQUIRED)
 
-# Add executable target
-add_executable(main main.cpp)
+# exe
+add_executable(balance balance.cpp)
 
-# Link yaml-cpp library
-target_link_libraries(main PRIVATE yaml-cpp)
+# lib
+target_link_libraries(balance PRIVATE yaml-cpp)
 
-# Set C++ standard
+# C++ standard
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
